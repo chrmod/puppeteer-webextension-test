@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-webextension-test",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "get-port": "^6.1.2",
+    "playwright-firefox": "^1.29.2",
+    "puppeteer": "^19.5.2",
+    "web-ext": "^7.4.0"
+  }
+}
